@@ -1,4 +1,4 @@
-# Remoti API - Automated Testing with Cucumber and RestAssured
+# YelloPepper - Automated Testing with Cucumber and RestAssured
 
 ## Overview
 
