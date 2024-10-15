@@ -1,8 +1,8 @@
-# Remoti API - Automated Testing with Cucumber and RestAssured
+# YelloPepper - Automated Testing with Cucumber and RestAssured
 
 ## Overview
 
-This project contains automated API tests for the Remoti technical interview, using the following technologies:
+This project contains automated API tests for the YellowPepper technical interview, using the following technologies:
 - **Cucumber**: For behavior-driven testing (BDD)
 - **RestAssured**: For API testing and interacting with REST services
 - **JUnit**: For running the test cases
